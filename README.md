@@ -1,6 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Krish%20Kumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=IT%20Student%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18)
+# Hi, I'm Krish! 👋
+### 🚀 IT Student | Open Source Contributor | React Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vMultiline=true&width=500&lines=Hey+there!+I'm+Krish+👋;IT+Student+%40+IIIT+Vadodara;GSSoC+'26+Contributor+🔥;Open+Source+Enthusiast+🚀)](https://git.io/typing-svg)
 
@@ -10,12 +11,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **IT Student @ IIIT Vadodara**
-- 🔥 **GSSoC '26 Contributor** — contributing to **RestroHub**
-- 💻 Passionate about **Web Development & Problem Solving**
-- 🌱 Currently learning **React, Open Source & DSA**
-- 🤝 Open to collaborations on innovative projects
-- ⚡ Love building practical and meaningful applications
+- 🎓 Information Technology Student
+- 🔥 Currently contributing to **RestroHub** @GSSoC'26
+- ⚛️ Love building with **React & JavaScript**
+- 🌱 Learning **Open Source Development**
 - 📍 India
 
 ---
