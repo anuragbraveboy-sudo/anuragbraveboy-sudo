@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 # Hi, I'm Krish! 👋
-### 🚀 IT Student | Open Source Contributor | React Developer
+### 🚀 IT Student |  React Developer
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vMultiline=true&width=435&lines=Building+Cool+Stuff+with+React;GSSoC+%2726+Contributor;Open+Source+Enthusiast)
 
@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 ## 🙋‍♂️ About Me
 
 - 🎓 Information Technology Student
-- 🔥 Currently contributing to **RestroHub** @GSSoC'26
 - ⚛️ Love building with **React & JavaScript**
 - 🌱 Learning **Open Source Development**
 - 📍 India
