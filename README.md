@@ -12,7 +12,6 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Information Technology Student
-- 🔥 Currently contributing to **RestroHub** @GSSoC'26
 - ⚛️ Love building with **React & JavaScript**
 - 🌱 Learning **Open Source Development**
 - 📍 India
