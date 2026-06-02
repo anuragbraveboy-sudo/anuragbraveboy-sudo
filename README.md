@@ -50,6 +50,11 @@
 
 <br/>
 
+### 🏆 GitHub Trophies
+[![Trophies](https://github-profile-trophy.vercel.app/?username=anuragbraveboy-sudo&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
 <!-- Retro Animated GIF -->
 <img src="https://media.giphy.com/media/JkTLqEZKk3mMg/giphy.gif" width="600" alt="Retro Synthwave Animation">
 
