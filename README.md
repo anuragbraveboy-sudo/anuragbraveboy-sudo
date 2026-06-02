@@ -3,6 +3,8 @@
 # Hi, I'm Krish! 👋
 ### 🚀 IT Student | Open Source Contributor | React Developer
 
+![Views](https://komarev.com/ghpvc/?username=anuragbraveboy-sudo&color=F97316&style=flat-square&label=PROFILE+VIEWS)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vMultiline=true&width=500&lines=Hey+there!+I'm+Krish+👋;IT+Student+%40+IIIT+Vadodara;GSSoC+'26+Contributor+🔥;Open+Source+Enthusiast+🚀)](https://git.io/typing-svg)
 
 </div>
@@ -45,6 +47,20 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragbraveboy-sudo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=ffffff)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuragbraveboy-sudo&theme=radical&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316)
+
+<br/>
+
+<!-- Retro Animated GIF -->
+<img src="https://media.giphy.com/media/JkTLqEZKk3mMg/giphy.gif" width="600" alt="Retro Synthwave Animation">
+
+<br/>
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuragbraveboy-sudo/anuragbraveboy-sudo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuragbraveboy-sudo/anuragbraveboy-sudo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anuragbraveboy-sudo/anuragbraveboy-sudo/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
