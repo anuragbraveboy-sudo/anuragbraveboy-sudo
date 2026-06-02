@@ -42,16 +42,16 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragbraveboy-sudo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anuragbraveboy-sudo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragbraveboy-sudo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=ffffff)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuragbraveboy-sudo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=ffffff)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuragbraveboy-sudo&theme=radical&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316)
 
 <br/>
 
 ### 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=anuragbraveboy-sudo&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=anuragbraveboy-sudo&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
