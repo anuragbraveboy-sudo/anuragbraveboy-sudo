@@ -12,43 +12,10 @@
 
 ## 🙋‍♂️ About Me
 
-Information Technology student at IIIT Vadodara with a strong passion for engineering modern, responsive, and visually stunning web interfaces. I focus on clean UI design, solid architecture, and interactive frontend applications.
+Exploring the vast universe of technology through code, open source, and continuous learning. Passionate about building, contributing, and growing every day.
 
 ### ⚡ What Drives Me
-I love bringing ideas to life through code. Whether it is solving complex algorithmic problems or crafting fluid, animated web experiences, I believe code should be both functional and delightful to interact with.
-
----
-
-## 🚀 Featured Projects
-
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <td width="50%" valign="top" style="border: 1px solid #1e293b; border-radius: 8px; background: #0b0f19;">
-      <h4>🤖 AI Gesture Visualizer</h4>
-      <p><i>Real-time Hand Gesture Recognition &amp; System Control</i></p>
-      <p>An intelligent system powered by computer vision to track and recognize human hand gestures, translating them into interactive controls and visual displays.</p>
-      <p><b>Impact:</b></p>
-      <ul>
-        <li>Real-time multi-hand tracking with minimal latency</li>
-        <li>Dynamic visual path mapping for tracking gestures</li>
-        <li>Integrated direct system input control maps</li>
-      </ul>
-      <p><b>Tech Stack:</b> Python, OpenCV, MediaPipe, NumPy</p>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #1e293b; border-radius: 8px; background: #0b0f19;">
-      <h4>📅 Eventra Platform</h4>
-      <p><i>Ticketing &amp; Event Management Portal</i></p>
-      <p>A comprehensive web platform that simplifies event creation, ticket booking, user check-ins, and analytics tracking in a seamless interface.</p>
-      <p><b>Impact:</b></p>
-      <ul>
-        <li>Streamlined ticket generation and secure verification</li>
-        <li>Real-time event booking and updates</li>
-        <li>Frosted glass dashboard UI with interactive statistics</li>
-      </ul>
-      <p><b>Tech Stack:</b> React, JavaScript, HTML5, CSS3, Tailwind CSS</p>
-    </td>
-  </tr>
-</table>
+Curiosity to explore the unknown, discipline to keep improving, and the ambition to turn ideas into reality. ✨
 
 ---
 
@@ -56,7 +23,7 @@ I love bringing ideas to life through code. Whether it is solving complex algori
 
 <h4 align="center">Frontend Development</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,vite" alt="Frontend Tech">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" alt="Frontend Tech">
 </p>
 
 <h4 align="center">Backend Development</h4>
@@ -64,9 +31,9 @@ I love bringing ideas to life through code. Whether it is solving complex algori
   <img src="https://skillicons.dev/icons?i=py,java" alt="Backend Tech">
 </p>
 
-<h4 align="center">Database &amp; DevOps</h4>
+<h4 align="center">DevOps &amp; Tools</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" alt="DevOps Tech">
+  <img src="https://skillicons.dev/icons?i=git,vscode" alt="DevOps Tech">
 </p>
 
 ---
@@ -99,37 +66,11 @@ I love bringing ideas to life through code. Whether it is solving complex algori
 ```javascript
 const dev = {
   currentRole: "IT Student at IIIT Vadodara",
-  experience: ["Frontend Engineering", "UI/UX Design", "Open Source Development"],
-  learning: ["Advanced React Patterns", "System Architecture", "Computer Vision / AI Integration"],
-  interests: ["Interactive Web Design", "Automation Systems", "Open Source Contribution"],
-  techInterests: ["Creative Frontend UI", "Data Visualization", "AI/CV Integration Systems"]
+  interests: ["Software Development", "Open Source Contribution", "Continuous Learning"],
+  techStack: ["React", "JavaScript", "Python", "Java", "Tailwind CSS"],
+  learning: ["System Design", "Advanced Web Technologies"]
 };
 ```
-
----
-
-## 🎨 Beyond Code
-
-<table width="100%" border="0" cellpadding="10" cellspacing="0" align="center">
-  <tr>
-    <td width="25%" align="center" valign="top" style="border: 1px solid #1e293b; border-radius: 8px; background: #0b0f19;">
-      <img src="card_open_source.png" width="100%" style="border-radius: 6px;" alt="Open Source">
-      <br/><br/><b>Open Source</b><br/><i>Exploring codebases</i>
-    </td>
-    <td width="25%" align="center" valign="top" style="border: 1px solid #1e293b; border-radius: 8px; background: #0b0f19;">
-      <img src="card_ui_design.png" width="100%" style="border-radius: 6px;" alt="UI Design">
-      <br/><br/><b>UI/UX Design</b><br/><i>Crafting interfaces</i>
-    </td>
-    <td width="25%" align="center" valign="top" style="border: 1px solid #1e293b; border-radius: 8px; background: #0b0f19;">
-      <img src="card_gaming.png" width="100%" style="border-radius: 6px;" alt="Gaming">
-      <br/><br/><b>Gaming</b><br/><i>Strategy &amp; Tactics</i>
-    </td>
-    <td width="25%" align="center" valign="top" style="border: 1px solid #1e293b; border-radius: 8px; background: #0b0f19;">
-      <img src="card_projects.png" width="100%" style="border-radius: 6px;" alt="Projects">
-      <br/><br/><b>Side Projects</b><br/><i>Building ideas</i>
-    </td>
-  </tr>
-</table>
 
 ---
 
