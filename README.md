@@ -1,38 +1,38 @@
 <p align="center">
-  <img src="cosmic_banner.png" width="100%" alt="Cosmic Space Exploration Banner">
+  <img src="tech_banner.svg" width="100%" alt="Tech Terminal Banner">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anuragbraveboy-sudo&color=61e2ff&style=flat-square&label=PROFILE+VIEWS" alt="Views">
+  <img src="https://komarev.com/ghpvc/?username=anuragbraveboy-sudo&color=00f2fe&style=flat-square&label=SYS+VIEWS" alt="Views">
 </p>
 
 <h1 align="center">
-  <font face="Georgia" size="6"><i>Anurag</i></font>
+  <font face="Courier New" size="6" color="#00f2fe">&lt;ANURAG.DEV /&gt;</font>
 </h1>
 
 <p align="center">
-  <font face="Helvetica" size="3" color="#9fa8da"><i>"An explorer's journal floating in the cosmos."</i></font>
+  <font face="Courier New" size="3" color="#9fa8da">[system_status: ACTIVE // telemetry_node: CONNECTED]</font>
 </p>
 
 <p align="center">
-  <img src="constellation_divider.svg" width="80%" alt="Constellation Divider">
+  <img src="tech_divider.svg" width="80%" alt="Tech Divider">
 </p>
 
-## 🌌 The Logbook
+## 🖥️ System Details
 
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td valign="top" width="50%">
-      <h3>🛸 Mission Directives</h3>
+      <h3>📂 Core Directories</h3>
       <ul>
         <li>🎓 Information Technology Student</li>
-        <li>⚛️ Engineering with React & TypeScript</li>
-        <li>🌱 Exploring the depths of Open Source</li>
-        <li>📍 Based in India</li>
+        <li>⚛️ Engineering with React, JavaScript & TypeScript</li>
+        <li>🌱 Contributing to Open Source repositories</li>
+        <li>📍 Local IP: India (Asia/Kolkata)</li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>🌌 Navigation Stack</h3>
+      <h3>🛠️ Core Engine Stack</h3>
       <p>
         <code>Python</code> &bull; <code>Java</code> &bull; <code>JavaScript</code> &bull; <code>TypeScript</code><br/>
         <code>React</code> &bull; <code>HTML5</code> &bull; <code>CSS3</code> &bull; <code>Tailwind</code> &bull; <code>Git</code>
@@ -42,26 +42,26 @@
 </table>
 
 <p align="center">
-  <img src="constellation_divider.svg" width="80%" alt="Constellation Divider">
+  <img src="tech_divider.svg" width="80%" alt="Tech Divider">
 </p>
 
 ## 📊 Telemetry Data
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anuragbraveboy-sudo&show_icons=true&bg_color=05070f&title_color=61e2ff&icon_color=61e2ff&text_color=9fa8da&border_color=1c233a" alt="GitHub Stats">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anuragbraveboy-sudo&show_icons=true&bg_color=05070f&title_color=00f2fe&icon_color=00f2fe&text_color=9fa8da&border_color=1c233a" alt="GitHub Stats">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuragbraveboy-sudo&layout=compact&bg_color=05070f&title_color=61e2ff&text_color=9fa8da&border_color=1c233a" alt="Top Languages">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuragbraveboy-sudo&layout=compact&bg_color=05070f&title_color=00f2fe&text_color=9fa8da&border_color=1c233a" alt="Top Languages">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragbraveboy-sudo&background=05070f&ring=61e2ff&fire=61e2ff&currStreakLabel=61e2ff&sideNums=9fa8da&sideLabels=9fa8da&dates=9fa8da&border=1c233a" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragbraveboy-sudo&background=05070f&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&sideNums=9fa8da&sideLabels=9fa8da&dates=9fa8da&border=1c233a" alt="GitHub Streak">
 
 </div>
 
 <p align="center">
-  <img src="constellation_divider.svg" width="80%" alt="Constellation Divider">
+  <img src="tech_divider.svg" width="80%" alt="Tech Divider">
 </p>
 
-### 🏆 Cosmic Achievements
+### 🏆 Achievements Logged
 <div align="center">
 
 [![Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=anuragbraveboy-sudo&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
@@ -69,10 +69,10 @@
 </div>
 
 <p align="center">
-  <img src="constellation_divider.svg" width="80%" alt="Constellation Divider">
+  <img src="tech_divider.svg" width="80%" alt="Tech Divider">
 </p>
 
-### 🐍 Stellar Contributions
+### 🐍 Code Execution Pipeline
 <div align="center">
 
 <picture>
@@ -84,10 +84,10 @@
 </div>
 
 <p align="center">
-  <img src="constellation_divider.svg" width="80%" alt="Constellation Divider">
+  <img src="tech_divider.svg" width="80%" alt="Tech Divider">
 </p>
 
-## 🤝 Connect
+## 🤝 Handshake Nodes
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-kumar-95b452399)
