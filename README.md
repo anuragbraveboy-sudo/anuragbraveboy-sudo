@@ -54,7 +54,7 @@ Curiosity to explore the unknown, discipline to keep improving, and the ambition
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuragbraveboy-sudo&layout=compact&bg_color=05070f&title_color=00f2fe&text_color=9fa8da&border_color=1c233a" alt="Languages">
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://streak-stats.demolab.com/?user=anuragbraveboy-sudo&background=05070f&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&sideNums=9fa8da&sideLabels=9fa8da&dates=9fa8da&border=1c233a" alt="Streak">
+      <img src="https://github-profile-trophy.vercel.app/?username=anuragbraveboy-sudo&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=3" alt="Trophies">
     </td>
   </tr>
 </table>
@@ -69,17 +69,7 @@ Curiosity to explore the unknown, discipline to keep improving, and the ambition
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuragbraveboy-sudo/anuragbraveboy-sudo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuragbraveboy-sudo/anuragbraveboy-sudo/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anuragbraveboy-sudo/anuragbraveboy-sudo/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
 
 ## 🤝 Let's Connect
 
