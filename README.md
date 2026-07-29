@@ -54,7 +54,7 @@ Curiosity to explore the unknown, discipline to keep improving, and the ambition
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuragbraveboy-sudo&layout=compact&bg_color=05070f&title_color=00f2fe&text_color=9fa8da&border_color=1c233a" alt="Languages">
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragbraveboy-sudo&background=05070f&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&sideNums=9fa8da&sideLabels=9fa8da&dates=9fa8da&border=1c233a" alt="Streak">
+      <img src="https://streak-stats.demolab.com/?user=anuragbraveboy-sudo&background=05070f&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&sideNums=9fa8da&sideLabels=9fa8da&dates=9fa8da&border=1c233a" alt="Streak">
     </td>
   </tr>
 </table>
