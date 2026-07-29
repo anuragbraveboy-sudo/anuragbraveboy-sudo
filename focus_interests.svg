@@ -1,0 +1,49 @@
+<svg width="800" height="280" viewBox="0 0 800 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .code { font-family: 'Fira Code', 'Consolas', 'Courier New', monospace; font-size: 16px; font-weight: 500; }
+    .keyword { fill: #b388ff; font-weight: bold; } 
+    .variable { fill: #00f2fe; } 
+    .punctuation { fill: #9fa8da; opacity: 0.8; } 
+    .string { fill: #4facfe; } 
+    .property { fill: #ffffff; } 
+  </style>
+
+  <!-- Window Background matching their theme -->
+  <rect width="800" height="280" rx="10" fill="#05070f" stroke="#1c233a" stroke-width="2"/>
+  
+  <!-- Mac Buttons -->
+  <circle cx="25" cy="25" r="7" fill="#ff5f56" />
+  <circle cx="45" cy="25" r="7" fill="#ffbd2e" />
+  <circle cx="65" cy="25" r="7" fill="#27c93f" />
+
+  <defs>
+    <clipPath id="clip1"><rect x="0" y="0" width="0" height="30"><animate attributeName="width" from="0" to="800" begin="0.5s" dur="0.6s" fill="freeze" /></rect></clipPath>
+    <clipPath id="clip2"><rect x="0" y="30" width="0" height="30"><animate attributeName="width" from="0" to="800" begin="1.1s" dur="0.8s" fill="freeze" /></rect></clipPath>
+    <clipPath id="clip3"><rect x="0" y="60" width="0" height="30"><animate attributeName="width" from="0" to="800" begin="1.9s" dur="1.2s" fill="freeze" /></rect></clipPath>
+    <clipPath id="clip4"><rect x="0" y="90" width="0" height="30"><animate attributeName="width" from="0" to="800" begin="3.1s" dur="1.2s" fill="freeze" /></rect></clipPath>
+    <clipPath id="clip5"><rect x="0" y="120" width="0" height="30"><animate attributeName="width" from="0" to="800" begin="4.3s" dur="1.0s" fill="freeze" /></rect></clipPath>
+    <clipPath id="clip6"><rect x="0" y="150" width="0" height="30"><animate attributeName="width" from="0" to="800" begin="5.3s" dur="0.3s" fill="freeze" /></rect></clipPath>
+  </defs>
+
+  <!-- Code Content -->
+  <g class="code" transform="translate(30, 70)">
+    <g clip-path="url(#clip1)">
+      <text y="20"><tspan class="keyword">const</tspan> <tspan class="variable">dev</tspan> <tspan class="punctuation">=</tspan> <tspan class="punctuation">{</tspan></text>
+    </g>
+    <g clip-path="url(#clip2)">
+      <text y="50" x="20"><tspan class="property">currentRole</tspan><tspan class="punctuation">:</tspan> <tspan class="string">"IT Student at IIIT Vadodara"</tspan><tspan class="punctuation">,</tspan></text>
+    </g>
+    <g clip-path="url(#clip3)">
+      <text y="80" x="20"><tspan class="property">interests</tspan><tspan class="punctuation">:</tspan> <tspan class="punctuation">[</tspan><tspan class="string">"Software Development"</tspan><tspan class="punctuation">, </tspan><tspan class="string">"Open Source Contribution"</tspan><tspan class="punctuation">, </tspan><tspan class="string">"Continuous Learning"</tspan><tspan class="punctuation">],</tspan></text>
+    </g>
+    <g clip-path="url(#clip4)">
+      <text y="110" x="20"><tspan class="property">techStack</tspan><tspan class="punctuation">:</tspan> <tspan class="punctuation">[</tspan><tspan class="string">"React"</tspan><tspan class="punctuation">, </tspan><tspan class="string">"JavaScript"</tspan><tspan class="punctuation">, </tspan><tspan class="string">"Python"</tspan><tspan class="punctuation">, </tspan><tspan class="string">"Java"</tspan><tspan class="punctuation">, </tspan><tspan class="string">"Tailwind CSS"</tspan><tspan class="punctuation">],</tspan></text>
+    </g>
+    <g clip-path="url(#clip5)">
+      <text y="140" x="20"><tspan class="property">learning</tspan><tspan class="punctuation">:</tspan> <tspan class="punctuation">[</tspan><tspan class="string">"System Design"</tspan><tspan class="punctuation">, </tspan><tspan class="string">"Advanced Web Technologies"</tspan><tspan class="punctuation">]</tspan></text>
+    </g>
+    <g clip-path="url(#clip6)">
+      <text y="170"><tspan class="punctuation">};</tspan></text>
+    </g>
+  </g>
+</svg>

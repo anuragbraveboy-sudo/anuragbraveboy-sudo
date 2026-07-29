@@ -63,14 +63,9 @@ Curiosity to explore the unknown, discipline to keep improving, and the ambition
 
 ## ⚡ Current Focus &amp; Interests
 
-```javascript
-const dev = {
-  currentRole: "IT Student at IIIT Vadodara",
-  interests: ["Software Development", "Open Source Contribution", "Continuous Learning"],
-  techStack: ["React", "JavaScript", "Python", "Java", "Tailwind CSS"],
-  learning: ["System Design", "Advanced Web Technologies"]
-};
-```
+<p align="center">
+  <img src="focus_interests.svg" width="100%" alt="Focus and Interests">
+</p>
 
 ---
 
