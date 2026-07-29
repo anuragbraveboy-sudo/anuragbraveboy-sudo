@@ -54,7 +54,7 @@ Curiosity to explore the unknown, discipline to keep improving, and the ambition
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuragbraveboy-sudo&layout=compact&bg_color=05070f&title_color=00f2fe&text_color=9fa8da&border_color=1c233a" alt="Languages">
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-profile-trophy.vercel.app/?username=anuragbraveboy-sudo&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=3" alt="Trophies">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=anuragbraveboy-sudo&repo=anuragbraveboy-sudo&theme=radical&bg_color=05070f&title_color=00f2fe&icon_color=00f2fe&text_color=9fa8da&border_color=1c233a" alt="Pinned Repo">
     </td>
   </tr>
 </table>
