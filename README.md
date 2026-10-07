@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile_banner.svg" width="100%" alt="Krish Banner">
+  <img src="profile_banner.svg" width="100%" alt="Kaju Banner">
 </p>
 
 <p align="center">
